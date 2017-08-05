@@ -83,7 +83,7 @@ https://stackoverflow.com/questions/39518928/gradle-error-while-uploading-app-lo
 3. 报错3
 
 ###### 这个错是在运行到手机上出的错，然后按照下面的图片做，在运行就ok了
-![看这里](react-native /jj.png);
+![看这里](https://github.com/jianghongyan728/react-native/blob/master/jj.png);
 
 4. 报错4
 
